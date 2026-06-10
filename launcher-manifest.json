@@ -1,66 +1,78 @@
-{
-  "version": "2026.06.10.4",
-  "generatedAt": "2026-06-10T22:35:43+07:00",
-  "files": [
-    {
-      "name": "BronTOP.pak",
-      "url": "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/BronTOP.pak",
-      "sha256": "492850a55eb126dc1f436c98e951a3ac51121d72f78e4fd649ba5f3ce53c3a38",
-      "size": 28227
-    },
-    {
-      "name": "DirtDrying.pak",
-      "url": "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/DirtDrying.pak",
-      "sha256": "cf790c00f47dd3ad9202349562099c72989b7864c9d5829792d08c354a897dd6",
-      "size": 3839
-    },
-    {
-      "name": "GeneratorNEW.pak",
-      "url": "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/GeneratorNEW.pak",
-      "sha256": "e6d0a201eeb11f85c689c020904ecfa7e5574c7bdd477dd55fb4b9bf50993014",
-      "size": 11917
-    },
-    {
-      "name": "NPC_Drop.pak",
-      "url": "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/NPC_Drop.pak",
-      "sha256": "6dcb31e06413be831efa9deddd297cb655758cfd1291164d4083a5d59f78513a",
-      "size": 18662
-    },
-    {
-      "name": "Object.pak",
-      "url": "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Object.pak",
-      "sha256": "6c8d2e6f95bcc26485c22baeef46174ba3533bc62b250a2dc6c4ae3878958220",
-      "size": 19894
-    },
-    {
-      "name": "Robot0406.pak",
-      "url": "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Robot0406.pak",
-      "sha256": "92e8952f1b6eb44065ef1673b1a401f003d48973a7688320b80d5a88890eaefa",
-      "size": 532166
-    },
-    {
-      "name": "Spawn.pak",
-      "url": "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Spawn.pak",
-      "sha256": "21742d20f8f14191b5650b7b08822371da02d4f4117cba90d02c9e98578fa596",
-      "size": 16299
-    },
-    {
-      "name": "TopRanecNEW.pak",
-      "url": "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/TopRanecNEW.pak",
-      "sha256": "c68d3f40e6c7c79ea02f6aa314ad2585e31be2aec2c0378acc152e0ff312c546",
-      "size": 7375
-    },
-    {
-      "name": "upgrade6.pak",
-      "url": "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/upgrade6.pak",
-      "sha256": "2c9e1c32b7fc933d6a6b597b079d229b9e01d1afc83c8dba79f360bf48088dbd",
-      "size": 5791
-    },
-    {
-      "name": "WeaponsNPC.pak",
-      "url": "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/WeaponsNPC.pak",
-      "sha256": "fe3d66a1cd8fa7ade84d6047c1c1e41495b777ff41fc73404ad191aa89868cf8",
-      "size": 90073
-    }
-  ]
+﻿{
+    "files":  [
+                  {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/BronTOP.pak",
+                      "name":  "BronTOP.pak",
+                      "sha256":  "492850a55eb126dc1f436c98e951a3ac51121d72f78e4fd649ba5f3ce53c3a38",
+                      "size":  28227
+                  },
+                  {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/DirtDrying.pak",
+                      "name":  "DirtDrying.pak",
+                      "sha256":  "cf790c00f47dd3ad9202349562099c72989b7864c9d5829792d08c354a897dd6",
+                      "size":  3839
+                  },
+                  {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/GeneratorNEW.pak",
+                      "name":  "GeneratorNEW.pak",
+                      "sha256":  "e6d0a201eeb11f85c689c020904ecfa7e5574c7bdd477dd55fb4b9bf50993014",
+                      "size":  11917
+                  },
+                  {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/NPC_Drop.pak",
+                      "name":  "NPC_Drop.pak",
+                      "sha256":  "6dcb31e06413be831efa9deddd297cb655758cfd1291164d4083a5d59f78513a",
+                      "size":  18662
+                  },
+                  {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Object.pak",
+                      "name":  "Object.pak",
+                      "sha256":  "6c8d2e6f95bcc26485c22baeef46174ba3533bc62b250a2dc6c4ae3878958220",
+                      "size":  19894
+                  },
+                  {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Robot0406.pak",
+                      "name":  "Robot0406.pak",
+                      "sha256":  "92e8952f1b6eb44065ef1673b1a401f003d48973a7688320b80d5a88890eaefa",
+                      "size":  532166
+                  },
+                  {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Spawn.pak",
+                      "name":  "Spawn.pak",
+                      "sha256":  "21742d20f8f14191b5650b7b08822371da02d4f4117cba90d02c9e98578fa596",
+                      "size":  16299
+                  },
+                  {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Stroika.pak",
+                      "name":  "Stroika.pak",
+                      "sha256":  "523896307b7a47e4229dcd45ebf2acc74f686ec3f79c3d883342d9d9ac5b2649",
+                      "size":  114390
+                  },
+                  {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/TopRanecNEW.pak",
+                      "name":  "TopRanecNEW.pak",
+                      "sha256":  "c68d3f40e6c7c79ea02f6aa314ad2585e31be2aec2c0378acc152e0ff312c546",
+                      "size":  7375
+                  },
+                  {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/upgrade6.pak",
+                      "name":  "upgrade6.pak",
+                      "sha256":  "2c9e1c32b7fc933d6a6b597b079d229b9e01d1afc83c8dba79f360bf48088dbd",
+                      "size":  5791
+                  },
+                  {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/WeaponsNPC.pak",
+                      "name":  "WeaponsNPC.pak",
+                      "sha256":  "fe3d66a1cd8fa7ade84d6047c1c1e41495b777ff41fc73404ad191aa89868cf8",
+                      "size":  90073
+                  },
+                  {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/zzzzzzzz_SCUM_VehicleWeaponMount_Repair_P.pak",
+                      "name":  "zzzzzzzz_SCUM_VehicleWeaponMount_Repair_P.pak",
+                      "sha256":  "9fa1f15725013ad37471a8e1b25b76964ea8ff5bcb216a5e9573eb21485655c9",
+                      "size":  183924
+                  }
+              ],
+    "generatedAt":  "2026-06-11T00:14:48+07:00",
+    "version":  "2026.06.11.0014"
 }
