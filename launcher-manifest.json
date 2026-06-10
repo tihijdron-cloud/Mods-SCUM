@@ -1,6 +1,6 @@
 {
-  "version": "2026.06.10.3",
-  "generatedAt": "2026-06-10T21:45:12+07:00",
+  "version": "2026.06.10.4",
+  "generatedAt": "2026-06-10T22:35:43+07:00",
   "files": [
     {
       "name": "BronTOP.pak",
@@ -29,8 +29,8 @@
     {
       "name": "Object.pak",
       "url": "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Object.pak",
-      "sha256": "3106a0feec6d29342d3c06ff41a6bd5a151f211aad56fc4a6d95289688d5ec1a",
-      "size": 19987
+      "sha256": "6c8d2e6f95bcc26485c22baeef46174ba3533bc62b250a2dc6c4ae3878958220",
+      "size": 19894
     },
     {
       "name": "Robot0406.pak",
