@@ -7,6 +7,12 @@
                       "size":  28227
                   },
                   {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/CustomOdechda.pak",
+                      "name":  "CustomOdechda.pak",
+                      "sha256":  "25839ade1b3fd93c3d19958d06ef0ec790e6d3a203632c268efbe670370f3a69",
+                      "size":  1572235
+                  },
+                  {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/DirtDrying.pak",
                       "name":  "DirtDrying.pak",
                       "sha256":  "cf790c00f47dd3ad9202349562099c72989b7864c9d5829792d08c354a897dd6",
@@ -31,6 +37,12 @@
                       "size":  19894
                   },
                   {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/pakchunk104-WindowsServer_CustomItemCraftRecipe_P.pak",
+                      "name":  "pakchunk104-WindowsServer_CustomItemCraftRecipe_P.pak",
+                      "sha256":  "8aaa168cac99fe51fd62d9f0b9bf3f22ea26e28df48b3dbde675f7242e6f2144",
+                      "size":  18648814
+                  },
+                  {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Robot0406.pak",
                       "name":  "Robot0406.pak",
                       "sha256":  "92e8952f1b6eb44065ef1673b1a401f003d48973a7688320b80d5a88890eaefa",
@@ -45,8 +57,8 @@
                   {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Stroika.pak",
                       "name":  "Stroika.pak",
-                      "sha256":  "523896307b7a47e4229dcd45ebf2acc74f686ec3f79c3d883342d9d9ac5b2649",
-                      "size":  114390
+                      "sha256":  "5bc44e76dd9da3614ecf33d6c014768259c1bb431da91d2da2b37fc49c7826f4",
+                      "size":  626048
                   },
                   {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/TopRanecNEW.pak",
@@ -73,6 +85,6 @@
                       "size":  183924
                   }
               ],
-    "generatedAt":  "2026-06-11T00:14:48+07:00",
-    "version":  "2026.06.11.0014"
+    "generatedAt":  "2026-06-11T01:08:14+07:00",
+    "version":  "2026.06.11.0108"
 }
