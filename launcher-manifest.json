@@ -33,8 +33,8 @@
                   {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Object.pak",
                       "name":  "Object.pak",
-                      "sha256":  "6e8a784a3a6ed742905f38716eac2b30fb52184d95f57bafba17e435fbadcc60",
-                      "size":  24758
+                      "sha256":  "3106a0feec6d29342d3c06ff41a6bd5a151f211aad56fc4a6d95289688d5ec1a",
+                      "size":  19987
                   },
                   {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/pakchunk104-WindowsServer_CustomItemCraftRecipe_P.pak",
@@ -79,6 +79,6 @@
                       "size":  183924
                   }
               ],
-    "generatedAt":  "2026-06-11T01:50:20+07:00",
-    "version":  "2026.06.11.0150"
+    "generatedAt":  "2026-06-11T01:57:49+07:00",
+    "version":  "2026.06.11.0157"
 }
