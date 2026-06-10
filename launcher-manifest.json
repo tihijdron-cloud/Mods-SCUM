@@ -55,12 +55,6 @@
                       "size":  16299
                   },
                   {
-                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Stroika.pak",
-                      "name":  "Stroika.pak",
-                      "sha256":  "5bc44e76dd9da3614ecf33d6c014768259c1bb431da91d2da2b37fc49c7826f4",
-                      "size":  626048
-                  },
-                  {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/TopRanecNEW.pak",
                       "name":  "TopRanecNEW.pak",
                       "sha256":  "c68d3f40e6c7c79ea02f6aa314ad2585e31be2aec2c0378acc152e0ff312c546",
@@ -85,6 +79,6 @@
                       "size":  183924
                   }
               ],
-    "generatedAt":  "2026-06-11T01:08:14+07:00",
-    "version":  "2026.06.11.0108"
+    "generatedAt":  "2026-06-11T01:27:46+07:00",
+    "version":  "2026.06.11.0127"
 }
