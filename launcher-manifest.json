@@ -1,0 +1,24 @@
+{
+  "version": "2026.06.10.1",
+  "generatedAt": "2026-06-10T20:30:00+07:00",
+  "files": [
+    {
+      "name": "GeneratorNEW.pak",
+      "url": "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/GeneratorNEW.pak",
+      "sha256": "e6d0a201eeb11f85c689c020904ecfa7e5574c7bdd477dd55fb4b9bf50993014",
+      "size": 11917
+    },
+    {
+      "name": "Object.pak",
+      "url": "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Object.pak",
+      "sha256": "8330573ff2bc7c670e6db3d31e3cdd2cd2a13fea7e63a5cb5e575e7eb83e5aac",
+      "size": 41877
+    },
+    {
+      "name": "Spawn.pak",
+      "url": "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Spawn.pak",
+      "sha256": "21742d20f8f14191b5650b7b08822371da02d4f4117cba90d02c9e98578fa596",
+      "size": 16299
+    }
+  ]
+}
