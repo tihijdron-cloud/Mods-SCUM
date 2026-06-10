@@ -7,12 +7,6 @@
                       "size":  28227
                   },
                   {
-                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/CustomOdechda.pak",
-                      "name":  "CustomOdechda.pak",
-                      "sha256":  "25839ade1b3fd93c3d19958d06ef0ec790e6d3a203632c268efbe670370f3a69",
-                      "size":  1572235
-                  },
-                  {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/DirtDrying.pak",
                       "name":  "DirtDrying.pak",
                       "sha256":  "cf790c00f47dd3ad9202349562099c72989b7864c9d5829792d08c354a897dd6",
@@ -37,10 +31,10 @@
                       "size":  19987
                   },
                   {
-                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/pakchunk104-WindowsServer_CustomItemCraftRecipe_P.pak",
-                      "name":  "pakchunk104-WindowsServer_CustomItemCraftRecipe_P.pak",
-                      "sha256":  "8aaa168cac99fe51fd62d9f0b9bf3f22ea26e28df48b3dbde675f7242e6f2144",
-                      "size":  18648814
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Rager_PanikA_MatteBlack.pak",
+                      "name":  "Rager_PanikA_MatteBlack.pak",
+                      "sha256":  "0a3a0b5ee32a4e3c926ee5f697282c778a650c73630c2ff6c0cbbc879712679f",
+                      "size":  3522073
                   },
                   {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Robot0406.pak",
@@ -79,6 +73,6 @@
                       "size":  183924
                   }
               ],
-    "generatedAt":  "2026-06-11T01:57:49+07:00",
-    "version":  "2026.06.11.0157"
+    "generatedAt":  "2026-06-11T03:26:53+07:00",
+    "version":  "2026.06.11.0326"
 }
