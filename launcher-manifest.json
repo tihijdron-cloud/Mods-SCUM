@@ -33,8 +33,8 @@
                   {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Rager_PanikA_MatteBlack.pak",
                       "name":  "Rager_PanikA_MatteBlack.pak",
-                      "sha256":  "1224b568eff2db05c94ddf5d9cdd7f97072703d2b4a3820e144423157383fd55",
-                      "size":  7330773
+                      "sha256":  "42ac15a21f0aab0bff6d47738337c433dcbc114165a38b180f896b8bda94a6f4",
+                      "size":  12017204
                   },
                   {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Robot0406.pak",
@@ -73,6 +73,6 @@
                       "size":  183924
                   }
               ],
-    "generatedAt":  "2026-06-11T19:26:39+07:00",
-    "version":  "2026.06.11.1926"
+    "generatedAt":  "2026-06-11T21:42:40+07:00",
+    "version":  "2026.06.11.2142"
 }
