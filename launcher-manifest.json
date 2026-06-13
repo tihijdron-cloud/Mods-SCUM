@@ -33,8 +33,8 @@
                   {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Rager_PanikA_MatteBlack.pak",
                       "name":  "Rager_PanikA_MatteBlack.pak",
-                      "sha256":  "67ad108de226703fe059a55725bd6b46e11bab6cbaa46c89fd4221b9760ecad1",
-                      "size":  30538
+                      "sha256":  "42ac15a21f0aab0bff6d47738337c433dcbc114165a38b180f896b8bda94a6f4",
+                      "size":  12017204
                   },
                   {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Robot0406.pak",
@@ -67,12 +67,18 @@
                       "size":  90073
                   },
                   {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/WolfsWagen_Lancia_PanikA_Final.pak",
+                      "name":  "WolfsWagen_Lancia_PanikA_Final.pak",
+                      "sha256":  "42affff1a49ef60ef57536d6999073a236d7cf938c0ebaf7a3cfa060b54ba94b",
+                      "size":  60053770
+                  },
+                  {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/zzzzzzzz_SCUM_VehicleWeaponMount_Repair_P.pak",
                       "name":  "zzzzzzzz_SCUM_VehicleWeaponMount_Repair_P.pak",
                       "sha256":  "9fa1f15725013ad37471a8e1b25b76964ea8ff5bcb216a5e9573eb21485655c9",
                       "size":  183924
                   }
               ],
-    "generatedAt":  "2026-06-13T02:51:13+07:00",
-    "version":  "2026.06.13.0251"
+    "generatedAt":  "2026-06-13T18:31:20+07:00",
+    "version":  "2026.06.13.1831"
 }
