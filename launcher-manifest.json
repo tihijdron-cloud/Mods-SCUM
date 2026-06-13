@@ -1,4 +1,4 @@
-﻿{
+{
     "files":  [
                   {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/BronTOP.pak",
@@ -67,7 +67,7 @@
                       "size":  90073
                   },
                   {
-                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/WolfsWagen_Lancia_PanikA_Final.pak",
+                      "url":  "https://github.com/tihijdron-cloud/Mods-SCUM/releases/download/lancia-v1/WolfsWagen_Lancia_PanikA_Final.pak",
                       "name":  "WolfsWagen_Lancia_PanikA_Final.pak",
                       "sha256":  "42affff1a49ef60ef57536d6999073a236d7cf938c0ebaf7a3cfa060b54ba94b",
                       "size":  60053770
@@ -79,6 +79,6 @@
                       "size":  183924
                   }
               ],
-    "generatedAt":  "2026-06-13T18:31:20+07:00",
-    "version":  "2026.06.13.1831"
+    "generatedAt":  "2026-06-13T18:54:55+07:00",
+    "version":  "2026.06.13.1854"
 }
