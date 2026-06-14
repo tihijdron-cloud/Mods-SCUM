@@ -1,10 +1,16 @@
-{
+﻿{
     "files":  [
                   {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/BronTOP.pak",
                       "name":  "BronTOP.pak",
                       "sha256":  "492850a55eb126dc1f436c98e951a3ac51121d72f78e4fd649ba5f3ce53c3a38",
                       "size":  28227
+                  },
+                  {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/DirtBike_PanikA_Moto_v1_P.pak",
+                      "name":  "DirtBike_PanikA_Moto_v1_P.pak",
+                      "sha256":  "32898bbc54aa8389b62995d54138b6d07ecd04633cc595632a2684ada2649ba8",
+                      "size":  1626721
                   },
                   {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/DirtDrying.pak",
@@ -67,18 +73,12 @@
                       "size":  90073
                   },
                   {
-                      "url":  "https://github.com/tihijdron-cloud/Mods-SCUM/releases/download/lancia-v1/WolfsWagen_Lancia_PanikA_Final.pak",
-                      "name":  "WolfsWagen_Lancia_PanikA_Final.pak",
-                      "sha256":  "42affff1a49ef60ef57536d6999073a236d7cf938c0ebaf7a3cfa060b54ba94b",
-                      "size":  60053770
-                  },
-                  {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/zzzzzzzz_SCUM_VehicleWeaponMount_Repair_P.pak",
                       "name":  "zzzzzzzz_SCUM_VehicleWeaponMount_Repair_P.pak",
                       "sha256":  "9fa1f15725013ad37471a8e1b25b76964ea8ff5bcb216a5e9573eb21485655c9",
                       "size":  183924
                   }
               ],
-    "generatedAt":  "2026-06-13T18:54:55+07:00",
-    "version":  "2026.06.13.1854"
+    "generatedAt":  "2026-06-14T13:06:07+07:00",
+    "version":  "2026.06.14.1306"
 }
