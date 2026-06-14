@@ -37,10 +37,10 @@
                       "size":  12017204
                   },
                   {
-                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Rager_WeaponStation_Roof_v2_P.pak",
-                      "name":  "Rager_WeaponStation_Roof_v2_P.pak",
-                      "sha256":  "75273e556ee9a6683e4779bbd3806657cefdbcecaba61c163768b4bcbdcd0e39",
-                      "size":  32586
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Rager_WeaponStation_Roof_v3_P.pak",
+                      "name":  "Rager_WeaponStation_Roof_v3_P.pak",
+                      "sha256":  "8db8b14977a2fa60a10c143a3ca6e92ebb0bebd3ae3d9bb1422398e045764bb2",
+                      "size":  32610
                   },
                   {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Robot0406.pak",
@@ -73,6 +73,6 @@
                       "size":  90073
                   }
               ],
-    "generatedAt":  "2026-06-14T23:00:50+10:00",
-    "version":  "2026.06.14.2300"
+    "generatedAt":  "2026-06-14T23:17:48+10:00",
+    "version":  "2026.06.14.2317"
 }
