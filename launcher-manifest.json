@@ -7,12 +7,6 @@
                       "size":  28227
                   },
                   {
-                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/DirtBike_PanikA_Moto_v1_P.pak",
-                      "name":  "DirtBike_PanikA_Moto_v1_P.pak",
-                      "sha256":  "32898bbc54aa8389b62995d54138b6d07ecd04633cc595632a2684ada2649ba8",
-                      "size":  1626721
-                  },
-                  {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/DirtDrying.pak",
                       "name":  "DirtDrying.pak",
                       "sha256":  "cf790c00f47dd3ad9202349562099c72989b7864c9d5829792d08c354a897dd6",
@@ -79,6 +73,6 @@
                       "size":  183924
                   }
               ],
-    "generatedAt":  "2026-06-14T13:06:07+07:00",
-    "version":  "2026.06.14.1306"
+    "generatedAt":  "2026-06-14T13:11:47+07:00",
+    "version":  "2026.06.14.1311"
 }
