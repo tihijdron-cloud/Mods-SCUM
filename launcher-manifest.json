@@ -65,14 +65,8 @@
                       "name":  "WeaponsNPC.pak",
                       "sha256":  "fe3d66a1cd8fa7ade84d6047c1c1e41495b777ff41fc73404ad191aa89868cf8",
                       "size":  90073
-                  },
-                  {
-                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/zzzzzzzz_SCUM_VehicleWeaponMount_Repair_P.pak",
-                      "name":  "zzzzzzzz_SCUM_VehicleWeaponMount_Repair_P.pak",
-                      "sha256":  "9fa1f15725013ad37471a8e1b25b76964ea8ff5bcb216a5e9573eb21485655c9",
-                      "size":  183924
                   }
               ],
-    "generatedAt":  "2026-06-14T22:37:28+10:00",
-    "version":  "2026.06.14.2237"
+    "generatedAt":  "2026-06-14T22:38:46+10:00",
+    "version":  "2026.06.14.2238"
 }
