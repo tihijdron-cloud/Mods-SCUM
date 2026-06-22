@@ -1,4 +1,4 @@
-﻿{
+{
     "files":  [
                   {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/BronTOP.pak",
@@ -31,7 +31,7 @@
                       "size":  19987
                   },
                   {
-                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/pakchunk100-WindowsServer_ScumModCommunityModPack_P.pak",
+                      "url":  "https://github.com/tihijdron-cloud/Mods-SCUM/releases/download/panika-mods-2026.06.23.0133/pakchunk100-WindowsServer_ScumModCommunityModPack_P.pak",
                       "name":  "pakchunk100-WindowsServer_ScumModCommunityModPack_P.pak",
                       "sha256":  "18b04e74e1e9778fce9eb4100b2dccf2f5c7715d90c8843f443113da78e81b48",
                       "size":  323611277
@@ -79,6 +79,6 @@
                       "size":  90073
                   }
               ],
-    "generatedAt":  "2026-06-23T01:33:14+10:00",
-    "version":  "2026.06.23.0133"
+    "generatedAt":  "2026-06-23T01:42:12+10:00",
+    "version":  "2026.06.23.0142"
 }
