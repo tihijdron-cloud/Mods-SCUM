@@ -31,6 +31,12 @@
                       "size":  19987
                   },
                   {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/pakchunk100-WindowsServer_ScumModCommunityModPack_P.pak",
+                      "name":  "pakchunk100-WindowsServer_ScumModCommunityModPack_P.pak",
+                      "sha256":  "18b04e74e1e9778fce9eb4100b2dccf2f5c7715d90c8843f443113da78e81b48",
+                      "size":  323611277
+                  },
+                  {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/Rager_PanikA_MatteBlack.pak",
                       "name":  "Rager_PanikA_MatteBlack.pak",
                       "sha256":  "42ac15a21f0aab0bff6d47738337c433dcbc114165a38b180f896b8bda94a6f4",
@@ -73,6 +79,6 @@
                       "size":  90073
                   }
               ],
-    "generatedAt":  "2026-06-23T01:26:18+10:00",
-    "version":  "2026.06.23.0126"
+    "generatedAt":  "2026-06-23T01:33:14+10:00",
+    "version":  "2026.06.23.0133"
 }
