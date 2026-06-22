@@ -55,6 +55,12 @@
                       "size":  7375
                   },
                   {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/UMP45_ThompsonMagazine_Compat_v1.pak",
+                      "name":  "UMP45_ThompsonMagazine_Compat_v1.pak",
+                      "sha256":  "a061cf628f1c17afdbe6e26b2c6cf4a889487a2e31fe494d3d94cd5e4d9d3c38",
+                      "size":  9219
+                  },
+                  {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/upgrade6.pak",
                       "name":  "upgrade6.pak",
                       "sha256":  "2c9e1c32b7fc933d6a6b597b079d229b9e01d1afc83c8dba79f360bf48088dbd",
@@ -67,12 +73,12 @@
                       "size":  90073
                   },
                   {
-                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/WolfsWagen_PanikA_CleanMatteBlack_v11.pak",
-                      "name":  "WolfsWagen_PanikA_CleanMatteBlack_v11.pak",
-                      "sha256":  "df40b5a49137822817e43a8f9506e400b3e3d89ae19bf09d21c7ccca881806ce",
-                      "size":  11744502
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/z_PanikA_FloatingFoundation_P.pak",
+                      "name":  "z_PanikA_FloatingFoundation_P.pak",
+                      "sha256":  "c84d1bad7986096971fdc2ecf17fdde7349329167186f077e763207406b70389",
+                      "size":  10855
                   }
               ],
-    "generatedAt":  "2026-06-21T22:17:45+10:00",
-    "version":  "2026.06.21.2217"
+    "generatedAt":  "2026-06-22T19:44:46+10:00",
+    "version":  "2026.06.22.1944"
 }
