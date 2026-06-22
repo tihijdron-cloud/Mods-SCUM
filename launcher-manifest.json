@@ -71,14 +71,8 @@
                       "name":  "WeaponsNPC.pak",
                       "sha256":  "fe3d66a1cd8fa7ade84d6047c1c1e41495b777ff41fc73404ad191aa89868cf8",
                       "size":  90073
-                  },
-                  {
-                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/z_PanikA_FloatingFoundation_P.pak",
-                      "name":  "z_PanikA_FloatingFoundation_P.pak",
-                      "sha256":  "c84d1bad7986096971fdc2ecf17fdde7349329167186f077e763207406b70389",
-                      "size":  10855
                   }
               ],
-    "generatedAt":  "2026-06-22T19:44:46+10:00",
-    "version":  "2026.06.22.1944"
+    "generatedAt":  "2026-06-23T01:26:18+10:00",
+    "version":  "2026.06.23.0126"
 }
