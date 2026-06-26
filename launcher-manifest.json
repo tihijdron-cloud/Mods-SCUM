@@ -13,6 +13,12 @@
                       "size":  3839
                   },
                   {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/DoorBrener.pak",
+                      "name":  "DoorBrener.pak",
+                      "sha256":  "c4c1c9502d649b821d88f2cd500901267fd3efbf077ae2bdba4d4939d809266a",
+                      "size":  9980
+                  },
+                  {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/GeneratorNEW.pak",
                       "name":  "GeneratorNEW.pak",
                       "sha256":  "e6d0a201eeb11f85c689c020904ecfa7e5574c7bdd477dd55fb4b9bf50993014",
@@ -71,8 +77,20 @@
                       "name":  "WeaponsNPC.pak",
                       "sha256":  "fe3d66a1cd8fa7ade84d6047c1c1e41495b777ff41fc73404ad191aa89868cf8",
                       "size":  90073
+                  },
+                  {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/zzz_PanikA_Airdrop_BasicLock.pak",
+                      "name":  "zzz_PanikA_Airdrop_BasicLock.pak",
+                      "sha256":  "b4d000596e2aa0229946d742ca51da6bb83f3d03c660cf662cdd9a7edfad8737",
+                      "size":  2530
+                  },
+                  {
+                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/zzz_PanikA_Floating_Water_BaseBuilding.pak",
+                      "name":  "zzz_PanikA_Floating_Water_BaseBuilding.pak",
+                      "sha256":  "229903e8a7aa5f7b163d64db1cd457c3ba04bdf62fdb9c787bff78cf1672ee4e",
+                      "size":  12784
                   }
               ],
-    "generatedAt":  "2026-06-23T03:07:05+10:00",
-    "version":  "2026.06.23.0307"
+    "generatedAt":  "2026-06-27T01:20:14+10:00",
+    "version":  "2026.06.27.0120"
 }
