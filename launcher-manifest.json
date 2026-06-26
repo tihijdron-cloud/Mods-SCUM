@@ -61,12 +61,6 @@
                       "size":  7375
                   },
                   {
-                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/UMP45_ThompsonMagazine_Compat_v1.pak",
-                      "name":  "UMP45_ThompsonMagazine_Compat_v1.pak",
-                      "sha256":  "a061cf628f1c17afdbe6e26b2c6cf4a889487a2e31fe494d3d94cd5e4d9d3c38",
-                      "size":  9219
-                  },
-                  {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/upgrade6.pak",
                       "name":  "upgrade6.pak",
                       "sha256":  "2c9e1c32b7fc933d6a6b597b079d229b9e01d1afc83c8dba79f360bf48088dbd",
@@ -83,14 +77,8 @@
                       "name":  "zzz_PanikA_Airdrop_BasicLock.pak",
                       "sha256":  "b4d000596e2aa0229946d742ca51da6bb83f3d03c660cf662cdd9a7edfad8737",
                       "size":  2530
-                  },
-                  {
-                      "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/zzz_PanikA_Floating_Water_BaseBuilding.pak",
-                      "name":  "zzz_PanikA_Floating_Water_BaseBuilding.pak",
-                      "sha256":  "2a29ebfc5c317b5e8a8549b884b05d868536ffe191a529af46df6747eece468c",
-                      "size":  12849
                   }
               ],
-    "generatedAt":  "2026-06-27T01:41:50+10:00",
-    "version":  "2026.06.27.0141"
+    "generatedAt":  "2026-06-27T01:49:15+10:00",
+    "version":  "2026.06.27.0149"
 }
