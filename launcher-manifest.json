@@ -87,10 +87,10 @@
                   {
                       "url":  "https://raw.githubusercontent.com/tihijdron-cloud/Mods-SCUM/main/zzz_PanikA_Floating_Water_BaseBuilding.pak",
                       "name":  "zzz_PanikA_Floating_Water_BaseBuilding.pak",
-                      "sha256":  "229903e8a7aa5f7b163d64db1cd457c3ba04bdf62fdb9c787bff78cf1672ee4e",
-                      "size":  12784
+                      "sha256":  "2a29ebfc5c317b5e8a8549b884b05d868536ffe191a529af46df6747eece468c",
+                      "size":  12849
                   }
               ],
-    "generatedAt":  "2026-06-27T01:20:14+10:00",
-    "version":  "2026.06.27.0120"
+    "generatedAt":  "2026-06-27T01:41:50+10:00",
+    "version":  "2026.06.27.0141"
 }
